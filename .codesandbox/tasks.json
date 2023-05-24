@@ -13,14 +13,6 @@
       "name": "npx @11ty/eleventy",
       "command": "npx @11ty/eleventy"
     },
-    "npx @11ty/eleventy --input=. --output=_site --server": {
-      "name": "npx @11ty/eleventy --input=. --output=_site --server",
-      "command": "npx @11ty/eleventy --input=. --output=_site --server"
-    },
-    "npx @11ty/eleventy --input=. --output=_site --serve ": {
-      "name": "npx @11ty/eleventy --input=. --output=_site --serve ",
-      "command": "npx @11ty/eleventy --input=. --output=_site --serve "
-    },
     "npx @11ty/eleventy --input=index.html --output=_site --serve": {
       "name": "npx @11ty/eleventy --input=index.html --output=_site --serve",
       "command": "npx @11ty/eleventy --input=index.html --output=_site --serve"
